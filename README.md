@@ -1,6 +1,16 @@
-### Backup Docker Volumes:
+### Backup Docker Volumes Version 1.0.0:
 
 # How to :
+
+### Clone Repo
+```
+git clone https://github.com/JonasMouret/backups_docker_volumes.git
+```
+
+### Go to dir the dist
+```
+cd backups_docker_volumes/dist
+```
 
 ### To execute the script
 ```
